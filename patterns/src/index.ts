@@ -1,1 +1,5 @@
-console.log('Hi, this is a template for NodeJs and Typescript');
+import { myFunctionRevealed } from './js/revealingModulePattern';
+
+const printedValue = myFunctionRevealed().print();
+
+console.log(printedValue);
