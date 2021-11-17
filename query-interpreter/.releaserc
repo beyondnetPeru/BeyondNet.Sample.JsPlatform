@@ -1,9 +1,0 @@
-{
-  "branches": ["master","next", "LMKT-6312"],
-  "repositoryUrl": "https://NzM5NTEwNjgyMTU1Oi+XiYfmmWR5FvfZs5uAyvbaKd8h@stash.cignium.com/scm/ug/lead-query-interpreter.git",
-  "plugins": ["@semantic-release/commit-analyzer", "@semantic-release/release-notes-generator", ["@semantic-release/changelog", {
-      "changelogFile": "docs/CHANGELOG.md"
-    }], "@semantic-release/npm", ["@semantic-release/git", {
-      "assets": ["docs/CHANGELOG.md"]
-    }]]
-}
