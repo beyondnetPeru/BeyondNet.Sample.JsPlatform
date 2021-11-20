@@ -7,18 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sean-Bradley/Design-Patterns-In-TypeScript.git"
+    "url": ""
   },
   "keywords": [
     "DesignPatterns",
     "TypeScript"
   ],
-  "author": "Sean Bradley",
-  "license": "Copyright 2021 Sean Bradley All Rights Reserved",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/Sean-Bradley/Design-Patterns-In-TypeScript/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Sean-Bradley/Design-Patterns-In-TypeScript#readme",
+  "homepage": "",
   "devDependencies": {
     "@types/node": "^14.14.41",
     "@typescript-eslint/eslint-plugin": "^4.22.0",
