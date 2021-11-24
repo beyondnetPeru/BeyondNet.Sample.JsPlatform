@@ -1,9 +1,0 @@
-.env
-build
-dist
-public
-config
-coverage
-node_modules
-package.json
-/**/tests/**

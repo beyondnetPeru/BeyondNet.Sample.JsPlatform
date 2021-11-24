@@ -1,9 +1,0 @@
-build
-dist
-public
-config
-coverage
-node_modules
-package.json
-src/registerServiceWorker.ts
-src/**/tests/**
