@@ -1,6 +1,13 @@
 {
   "restartable": "rs",
-  "ignore": [".git", "node_modules/", "dist/", "coverage/"],
+  "ignore": [
+    ".git",
+    "node_modules/",
+    "dist/",
+    "coverage/",
+    "node_modules/**/node_modules"
+  ],
+  "verbose": true,
   "watch": ["src/"],
   "execMap": {
     "ts": "node -r ts-node/register"

@@ -4,9 +4,10 @@
     {
       "type": "node",
       "request": "attach",
-      "name": "Attach",
+      "name": "Node: Nodemon",
+      "processId": "${command:PickProcess}",
       "restart": true,
-      "processId": "${command:PickProcess}"
+      "protocol": "inspector"
     }
   ]
 }
